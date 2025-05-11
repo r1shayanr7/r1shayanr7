@@ -1,14 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Shayan Chakraborty
-==========================================================================================================================================
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Shayan+Chakraborty;Full+Stack+Developer;Generative+AI+Enthusiast" alt="Typing SVG" />
+</p>
 
-Full Stack Developer
--------------------
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400px" alt="Developer GIF"/>
+</p>
 
-I'm a dedicated and passionate developer, levelling up everyday.
-
-* 🌍  I'm based in India
-* 🧠  I'm learning Artificial Intelligence and Machine Learning
-* 🤝  I'm open to collaborating on Projects, Hackathons
 
 <div align="left" style="width: 50%; height: auto;">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=r7cs&theme=github-dark&filter=comp&border=no-border&animated=true" style="width: 50%; height: auto;" />
