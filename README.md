@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Shayan+Chakraborty;Full+Stack+Developer;Generative+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=800&center=true&vCenter=true&width=1000&lines=I'm+Shayan+Chakraborty;Full+Stack+Developer;Generative+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400px" alt="Developer GIF"/>
-</p>
 
 
 <div align="left" style="width: 50%; height: auto;">
