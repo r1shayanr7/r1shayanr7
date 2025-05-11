@@ -35,7 +35,7 @@ I'm a dedicated and passionate developer, levelling up everyday.
   <img src="https://github-readme-stats.vercel.app/api?username=r7projects-shayan&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="188" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=r7projects-shayan&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=34&order=3" height="169" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=r7projects-shayan&theme=matrix&column=4&row=5&margin-w=74&margin-h=40&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r7projects-shayan&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r1shayanr7&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
